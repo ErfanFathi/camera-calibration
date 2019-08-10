@@ -1,6 +1,6 @@
 # Camera Calibration
 
-Implementation of calibrating intrinsic and extrinsic camera parameter 
+Implementation of calibrating intrinsic and extrinsic camera parameter <br />
 with pso optimization and quaternion rotation for distance calculation .
 
 
