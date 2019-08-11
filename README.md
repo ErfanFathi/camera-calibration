@@ -43,11 +43,11 @@ just note that the array is as follows :
 #### 2) Set Optimization Parameter :
 
 This part of process very important because pso algorithm 
-very parameter based so pay attention to the parameters. <br />
+highly parameter based so pay attention to the parameters. <br />
 
 ## How To Use ?
 
-After the setup environment and code, comile and run code .
+After the setup environment and code, compile and run code .
 if print "pattern not found" there is a problem in your chessboard
 check that if print "pattern found" that's ok . after calibration process you have 10 parameter .
 now you can use that and calculate distance or pixel .
