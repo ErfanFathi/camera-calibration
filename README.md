@@ -69,6 +69,11 @@ vice versa :)
 <img src = "https://github.com/ErfanFathi/camera-calibration/blob/master/utils/projected_corners.jpg"</img>
 </p>
 
+## Euler angles and quaternions
+
+If you want read more about euler angles and quaternions i suggest you read the following paper : <br />
+[A Tutorial on Euler Angles and Quaternions](http://www.weizmann.ac.il/sci-tea/benari/sites/sci-tea.benari/files/uploads/softwareAndLearningMaterials/quaternion-tutorial-2-0-1.pdf)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
