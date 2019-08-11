@@ -1,6 +1,6 @@
 # Camera Calibration
 
-Implementation of calibrating intrinsic and extrinsic camera parameter <br />
+Implementation of calibrating intrinsic and extrinsic camera parameter
 with pso optimization and quaternion rotation for distance calculation .
 
 
@@ -10,6 +10,11 @@ with pso optimization and quaternion rotation for distance calculation .
 sudo apt install libopencv-dev cmake
 ```
 
-## Continue the description 
+## Environment Setup
 
-Coming soon because my mom say go sleep son :))
+First, set the camera in a fixed position then place the chessboard in front of it at a fixed distance,
+as shown below :
+
+<p align="center">
+<img src = "https://github.com/ErfanFathi/camera-calibration/blob/master/utils/setup.jpg"</img>
+</p>
