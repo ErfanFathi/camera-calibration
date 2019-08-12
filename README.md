@@ -82,8 +82,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This is a message for github : <br /> 
 Yeah i'm a iranian scientist <br />
-but you can't restricted my freedom <br />
-you can't restricted my github account <br />
+but you can't restrict my freedom <br />
+you can't restrict my github account <br />
 
 Feel free to use, modify this code. And please feel free to fork the code 
 from Github and send pull requests.
