@@ -80,16 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Finale
 
-This is a message for github : <br /> 
-Yeah i'm a iranian scientist <br />
-but you can't restrict my freedom <br />
-you can't restrict my github account <br />
-
-Feel free to use, modify this code. And please feel free to fork the code 
-from Github and send pull requests.
-
 Report any comment or bugs or question to:<br />
 fathierfan97@gmail.com<br />
-
-Regards,<br />
-Erfan Fathi<br />
